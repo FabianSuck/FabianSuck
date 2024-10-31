@@ -15,15 +15,15 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/FabianSuck" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://de.linkedin.com/in/fabian-suck" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">Dynamic and results-driven Team Lead in Geospatial Solutions with a solid foundation in project management, ETL processes, and DevOps. Experienced in data analysis and IT strategy, with a strong focus on renewable energy Projekts.
+<h3 align="left">Dynamic and results-driven Team Lead in Geospatial Solutions with a solid foundation in project management, ETL processes, and DevOps. Experienced in data analysis and IT strategy, with a strong focus on renewable energy Projekts.
  
- Skilled in database management and data warehousing across multiple platforms, including Microsoft SQL Server and PostgreSQL. Proficient in Linux system administration, Shell scripting, and Docker for containerization.
+Skilled in database management and data warehousing across multiple platforms, including Microsoft SQL Server and PostgreSQL. Proficient in Linux system administration, Shell scripting, and Docker for containerization.
 
 Extensive knowledge in GIS tools, including QGIS, ArcPro and ArcGIS Server, paired with hands-on experience in Autodesk InfraWorks for enhanced spatial analysis and data integration. Skilled in Python and SQL for data manipulation and Flask and GraphQL for API development. Familiar with Kubernetes for container orchestration and PowerShell and VBA for task automation and workflow optimization.
 
 Practiced in IT management and agile methodologies (including Kanban), alongside solid experience in ITIL and Change Management. Focused on automation, OKRs, and CRM integration to drive productivity and improve customer satisfaction. Highly adaptable, with a proven track record in collaborative problem-solving, virtual team leadership, and employee training.
 
-Committed to digital transformation, with an interest in IoT applications and advancing data-driven insights across projects.</h3>**
+Committed to digital transformation, with an interest in IoT applications and advancing data-driven insights across projects.</h3>
 
 **<h3 align="left">Rapid Fire</h3>**
 
@@ -46,7 +46,3 @@ Committed to digital transformation, with an interest in IoT applications and ad
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sushilmagare10&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
 </p>
-
- **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
