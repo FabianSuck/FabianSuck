@@ -13,11 +13,13 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://github.com/FabianSuck" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://de.linkedin.com/in/fabian-suck" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">Dynamic and results-driven Team Lead in Geospatial Solutions with a solid foundation in project management, ETL processes, and DevOps. Experienced in data analysis and IT strategy, with a strong focus on renewable energy projects. Skilled in database management and data warehousing across multiple platforms, including Microsoft SQL Server and PostgreSQL. Proficient in Linux system administration, Shell scripting, and Docker for containerization.
+ **<h3 align="left">Dynamic and results-driven Team Lead in Geospatial Solutions with a solid foundation in project management, ETL processes, and DevOps. Experienced in data analysis and IT strategy, with a strong focus on renewable energy Projekts.
+ 
+ Skilled in database management and data warehousing across multiple platforms, including Microsoft SQL Server and PostgreSQL. Proficient in Linux system administration, Shell scripting, and Docker for containerization.
 
-Extensive knowledge in GIS tools, including ArcGIS and ArcGIS Server, paired with hands-on experience in Autodesk InfraWorks for enhanced spatial analysis and data integration. Skilled in Python and SQL for data manipulation and Flask and GraphQL for API development. Familiar with Kubernetes for container orchestration and PowerShell and VBA for task automation and workflow optimization.
+Extensive knowledge in GIS tools, including QGIS, ArcPro and ArcGIS Server, paired with hands-on experience in Autodesk InfraWorks for enhanced spatial analysis and data integration. Skilled in Python and SQL for data manipulation and Flask and GraphQL for API development. Familiar with Kubernetes for container orchestration and PowerShell and VBA for task automation and workflow optimization.
 
 Practiced in IT management and agile methodologies (including Kanban), alongside solid experience in ITIL and Change Management. Focused on automation, OKRs, and CRM integration to drive productivity and improve customer satisfaction. Highly adaptable, with a proven track record in collaborative problem-solving, virtual team leadership, and employee training.
 
@@ -26,7 +28,7 @@ Committed to digital transformation, with an interest in IoT applications and ad
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a new spatial data Infrastructure**
-- 🌱 I'm currently learning: **Kubernetes deployment **
+- 🌱 I'm currently learning: **Kubernetes deployment**
 - 💬 Ask me about: **💡 Python, JavaScript, React, Node.js, DuckDB, and RESTful APIs**
 
  **<h3 align="left">Skills</h3>**
